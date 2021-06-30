@@ -1,7 +1,7 @@
 # weather-reporter
 
 This project is used to schedule the recurrence task to get the temperature of your current location if there is a weather change at trigger time. 
-This project has following subpart to book the movie ticket.
+This project has following subparts.
 * Weather reporter
 * Consumer
 
